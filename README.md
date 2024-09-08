@@ -1,1 +1,1 @@
-# csharp-course
+# C# course
