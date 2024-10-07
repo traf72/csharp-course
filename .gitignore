@@ -51,3 +51,4 @@ Thumbs.db
 bin/
 .vs/
 obj/
+*.user

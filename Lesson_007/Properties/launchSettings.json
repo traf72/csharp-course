@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lesson7": {
+      "commandName": "Project",
+      "commandLineArgs": "run app"
+    }
+  }
+}
